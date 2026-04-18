@@ -67,20 +67,21 @@ Improving these areas can help reduce employee turnover and enhance overall empl
 ---
 
 ## Repository Structure
-IBM-HR-Attrition-Analysis/
-│
-├── IBM_HR_EDA.ipynb
-├── IBM_SQL_Analysis.sql
-├── README.md
-└── images/
-    ├── attrition_count.png
-    ├── overtime_attrition.png
-    ├── salary_attrition.png
-    ├── worklife_attrition.png
-    ├── jobrole_attrition.png
-    └── correlation_heatmap.png
 
----
+```
+IBM-HR-Attrition-Analysis/
+|
+|-- IBM_HR_EDA.ipynb
+|-- IBM_SQL_Analysis.sql
+|-- README.md
+|-- images/
+    |-- attrition_count.png
+    |-- overtime_attrition.png
+    |-- salary_attrition.png
+    |-- worklife_attrition.png
+    |-- jobrole_attrition.png
+    |-- correlation_heatmap.png
+```
 
 ## Author
 Soham Chavan
